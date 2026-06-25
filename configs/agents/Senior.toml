@@ -1,0 +1,39 @@
+agent_type = 'Senior'
+
+research_fields_list = [
+    '风湿病学',          # Rheumatology
+    '骨科学',            # Orthopedics
+    '眼科学',            # Ophthalmology
+    '肾脏病学',          # Nephrology
+    '肿瘤学',            # Oncology
+    '心脏病学',          # Cardiology
+    '神经病学',          # Neurology
+    '呼吸病学',          # Pulmonology
+    '内分泌学',          # Endocrinology
+    '消化病学',          # Gastroenterology
+    '皮肤病学',          # Dermatology
+    '感染病学',          # Infectious Diseases
+    '精神病学',          # Psychiatry
+    '儿科学',            # Pediatrics
+    '麻醉学',            # Anesthesiology
+    '运动医学',          # Sports Medicine
+    '急诊医学',          # Emergency Medicine
+    '重症医学',          # Critical Care Medicine
+    '妇产科学',          # Obstetrics and Gynecology
+    '普通外科学',        # General Surgery
+    '心胸外科学',        # Cardiothoracic Surgery
+    '神经外科学',        # Neurosurgery
+    '整形外科学',        # Plastic Surgery
+    '创伤外科学',        # Trauma Surgery
+    '移植医学',          # Transplantation Medicine
+    '肿瘤放疗学'         # Radiation Oncology
+]
+
+work_time_list = [
+    '15年',
+    '16年',
+    '17年',
+    '18年',
+    '19年',
+    '超过20年'
+]

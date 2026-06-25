@@ -1,0 +1,62 @@
+agent_type = 'Mid'
+
+identity_list = [
+    '主治医师',
+    '副主任医师'
+]
+
+institution_list = [
+    '北京协和医院',  # Peking Union Medical College Hospital (China)
+    '四川大学华西医院',  # West China Hospital, Sichuan University (China)
+    '上海交通大学医学院附属瑞金医院',  # Ruijin Hospital, Shanghai Jiao Tong University (China)
+    '复旦大学附属中山医院',  # Zhongshan Hospital, Fudan University (China)
+    '首都医科大学宣武医院',  # Xuanwu Hospital, Capital Medical University (China)
+    '华中科技大学同济医学院附属同济医院',  # Tongji Hospital, Tongji Medical College (China)
+    '浙江大学医学院附属第一医院',  # The First Affiliated Hospital, Zhejiang University (China)
+    '中国医学科学院阜外医院',  # Fuwai Hospital, Chinese Academy of Medical Sciences (China)
+    '上海市胸科医院',  # Shanghai Chest Hospital (China)
+    '中山大学肿瘤防治中心'  # Sun Yat-sen University Cancer Center (China)
+]
+
+research_fields_list = [
+    '风湿病学',           # Rheumatology
+    '骨科学',            # Orthopedics
+    '眼科学',            # Ophthalmology
+    '肾脏病学',          # Nephrology
+    '肿瘤学',            # Oncology
+    '心脏病学',          # Cardiology
+    '神经病学',          # Neurology
+    '呼吸病学',          # Pulmonology
+    '内分泌学',          # Endocrinology
+    '消化病学',          # Gastroenterology
+    '皮肤病学',          # Dermatology
+    '感染病学',          # Infectious Diseases
+    '精神病学',          # Psychiatry
+    '儿科学',            # Pediatrics
+    '麻醉学',            # Anesthesiology
+    '运动医学',          # Sports Medicine
+    '急诊医学',          # Emergency Medicine
+    '重症医学',          # Critical Care Medicine
+    '妇产科学',          # Obstetrics and Gynecology
+    '普通外科学',        # General Surgery
+    '心胸外科学',        # Cardiothoracic Surgery
+    '神经外科学',        # Neurosurgery
+    '整形外科学',        # Plastic Surgery
+    '创伤外科学',        # Trauma Surgery
+    '移植医学',          # Transplantation Medicine
+    '肿瘤放疗学'         # Radiation Oncology
+]
+
+work_time_list = [
+    '4年',
+    '5年',
+    '6年',
+    '7年',
+    '8年',
+    '9年',
+    '10年',
+    '11年',
+    '12年',
+    '13年',
+    '14年'
+]

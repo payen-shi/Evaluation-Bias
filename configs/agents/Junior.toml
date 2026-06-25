@@ -1,0 +1,84 @@
+agent_type = 'Junior'
+
+identity_list = [
+    '一年级专业型临床医学硕士',
+    '二年级专业型临床医学硕士',
+    '三年级专业型临床医学硕士',
+    '一年级专业型临床医学博士',
+    '二年级专业型临床医学博士',
+    '三年级专业型临床医学博士'
+]
+
+institution_list = [
+    '北京协和医学院',  # Peking Union Medical College
+    '北京大学医学部',  # Peking University Health Science Center
+    '上海交通大学医学院',  # Shanghai Jiao Tong University School of Medicine
+    '复旦大学上海医学院',  # Shanghai Medical College, Fudan University
+    '浙江大学医学院',  # Zhejiang University School of Medicine
+    '四川大学华西医学中心',  # West China Medical Center, Sichuan University
+    '华中科技大学同济医学院',  # Tongji Medical College, Huazhong University of Science and Technology
+    '中山大学中山医学院',  # Zhongshan School of Medicine, Sun Yat-sen University
+    '中南大学湘雅医学院',  # Xiangya School of Medicine, Central South University
+    '首都医科大学',  # Capital Medical University
+
+    '南京医科大学',  # Nanjing Medical University
+    '南方医科大学',  # Southern Medical University
+    '天津医科大学',  # Tianjin Medical University
+    '中国医科大学',  # China Medical University
+    '哈尔滨医科大学',  # Harbin Medical University
+    '山东大学齐鲁医学院',  # Cheeloo College of Medicine, Shandong University
+    '武汉大学医学部',  # Wuhan University Health Science Center
+    '吉林大学白求恩医学部',  # Norman Bethune Health Science Center, Jilin University
+    '西安交通大学医学部',  # Health Science Center, Xi'an Jiaotong University
+    '重庆医科大学',  # Chongqing Medical University
+
+    '广州医科大学',  # Guangzhou Medical University
+    '温州医科大学',  # Wenzhou Medical University
+    '同济大学医学院',  # Tongji University School of Medicine
+    '苏州大学医学部',  # Medical College of Soochow University
+    '郑州大学医学院',  # Medical School of Zhengzhou University
+
+    '空军军医大学',  # Air Force Medical University
+    '海军军医大学',  # Naval Medical University
+    '陆军军医大学',  # Army Medical University
+    '青海大学医学部',  # Health Science Center, Qinghai University
+    '新疆医科大学'  # Xinjiang Medical University
+]
+
+research_fields_list = [
+    '风湿病学',          # Rheumatology
+    '骨科学',            # Orthopedics
+    '眼科学',            # Ophthalmology
+    '肾脏病学',          # Nephrology
+    '肿瘤学',            # Oncology
+    '心脏病学',          # Cardiology
+    '神经病学',          # Neurology
+    '呼吸病学',          # Pulmonology
+    '内分泌学',          # Endocrinology
+    '消化病学',          # Gastroenterology
+    '皮肤病学',          # Dermatology
+    '感染病学',          # Infectious Diseases
+    '精神病学',          # Psychiatry
+    '儿科学',            # Pediatrics
+    '麻醉学',            # Anesthesiology
+    '运动医学',          # Sports Medicine
+    '急诊医学',          # Emergency Medicine
+    '重症医学',          # Critical Care Medicine
+    '妇产科学',          # Obstetrics and Gynecology
+    '普通外科学',        # General Surgery
+    '心胸外科学',        # Cardiothoracic Surgery
+    '神经外科学',        # Neurosurgery
+    '整形外科学',        # Plastic Surgery
+    '创伤外科学',        # Trauma Surgery
+    '移植医学',          # Transplantation Medicine
+    '肿瘤放疗学'         # Radiation Oncology
+]
+
+work_time_list = [
+    '三个月',
+    '六个月',
+    '九个月',
+    '一年',
+    '一年半',
+    '两年'
+]

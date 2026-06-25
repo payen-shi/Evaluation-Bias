@@ -1,0 +1,30 @@
+[patient_info]
+name = "R_Case_X"
+
+clinical_records = """
+
+请根据以上病例信息做出诊断
+"""
+
+target_illness = 'XXXXXX'
+
+[diagnostic_report]
+Model_A = """
+
+"""
+
+Model_B =  """
+
+"""
+
+Model_C =  """
+
+"""
+
+Model_D =  """
+
+"""
+
+Model_E =  """
+
+"""
